@@ -1,5 +1,5 @@
 # Expense Tracker
-This is a simple Expense Tracker project built using Python. It helps users record their expenses and calculates the total amount
+This is a simple Expense Tracker project built using Python. It helps users record their expenses and calculates the total amount.
 - Add multiple expenses
 - Calculate total expenses automatically
 - Handle invalid inputs
